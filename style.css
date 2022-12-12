@@ -1,0 +1,15 @@
+body {
+    width: 800px;
+    margin: auto;
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    height: auto;
+    width: 800px;
+}
+
+h1, h2 {
+    color: brown;
+}
